@@ -73,9 +73,13 @@ mysite/
 #5. How to Run
 ==============
 git clone <repo-url>
+
 cd <project-folder>
+
 pip install -r requirements.txt
+
 python manage.py migrate
+
 python manage.py runserver
 
 #6. Notes
