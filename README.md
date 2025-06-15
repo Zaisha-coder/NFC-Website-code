@@ -3,7 +3,6 @@ Zaisha - web nfc memory upload
 #1. Project Structure
 =====================
 mysite/
-│
 ├── core/                    # Django app handling logic
 ├── templates/
 │   ├── index2.html          # Landing Page
